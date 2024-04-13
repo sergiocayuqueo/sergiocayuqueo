@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sergiocayuqueo
+- 👋 Hi, I’m @sergioismaelvc
 - 👀 I’m interested in software develpment, AI, Startups.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on world class project
-- 📫 How to reach me https://sergiocayuqueo.github.io/ 
+- 📫 How to reach me https://sergioismaelvc.github.io/ 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
