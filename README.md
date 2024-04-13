@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sergioismaelvc
+- 👋 Hi, I’m @sergiocayuqueo
 - 👀 I’m interested in software develpment, AI, Startups.
 - 🌱 I’m currently learning AI.
 - 💞️ I’m looking to collaborate on world class project
