@@ -33,16 +33,16 @@ Feel free to connect with me if you're interested in discussing new technologies
 ### Fun Facts
 
 - 🧑‍💻 When I’m not coding, I’m exploring the realms of **philosophy**, **sci-fi**, and **futurism** to inspire my next big idea.
-- 🎶 I believe in the power of **music** to fuel creativity. If you ever need a playlist for coding, I’ve got you covered!
+- 🎶 I believe in the power of **truth** to fuel creativity.
 - 🧩 Passionate about solving **puzzles**—whether it's coding challenges, problem-solving, or life’s great mysteries.
 
 ---
 
 ### Featured Projects
 
-- [**AI-Powered Chatbot**](https://github.com/sergiocayuqueo/chatbot): A conversational AI built with **TensorFlow** and **Natural Language Processing** to enhance customer experience.
-- [**Open-Source Framework**](https://github.com/sergiocayuqueo/framework): Developed a versatile open-source framework for building scalable microservices with **Docker** and **Kubernetes**.
-- [**Techno-Optimist Blog**](https://sergiocayuqueo.com/blog): My personal blog where I explore future technology trends and the world of **techno-optimism**.
+- [**AI-Powered Chatbot**](https://github.com/sergiocayuqueo/chatbot): ------------------
+- [**Open-Source Framework**](https://github.com/sergiocayuqueo/framework): ----------------------------
+- [**Techno-Optimist Blog**](https://sergiocayuqueo.com/): My personal blog where I explore future technology trends and the world of **techno-optimism**.
 
 ---
 
