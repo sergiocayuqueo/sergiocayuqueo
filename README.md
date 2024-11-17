@@ -8,17 +8,17 @@
 
 Hi, I'm Sergio Cayuqueo, a **Software Engineer** and a **Techno-Optimist** based in **Santiago, Chile**. My passion for technology stems from my deep belief in its ability to solve real-world problems and improve lives. I'm constantly exploring innovative ways to leverage cutting-edge technologies to create impactful, scalable solutions.
 
-I specialize in designing **high-performance systems**, **scalable architectures**, and **AI-driven applications**. With a background in multiple languages and technologies, I’m particularly excited about building solutions that integrate seamlessly across platforms and empower users to reach their full potential. I thrive in environments that challenge me to think outside the box and continuously innovate.
+With a background in multiple languages and technologies, I’m particularly excited about building solutions that integrate seamlessly across platforms and empower users to reach their full potential. I thrive in environments that challenge me to think outside the box and continuously innovate.
 
 ---
 
 ### Key Achievements
 
-- **Techno-Optimist Framework**: Developed a dynamic framework for identifying innovative technology trends and predicting their real-world impact.
-- **Awarded Software Engineer**: Recognized for delivering high-performance systems that solve complex industry challenges.
-- **Open-Source Contributor**: Contributed to multiple open-source projects, including AI and machine learning libraries.
-- **Innovative AI Applications**: Led the development of several AI-powered applications in domains ranging from natural language processing to image recognition.
-- **Tech Speaker**: Regularly invited to speak at international tech conferences about the intersection of **AI** and **Software Engineering**.
+- **Techno-Optimist Framework**: ------------------------
+- **Awarded Software Engineer**: ------------------
+- **Open-Source Contributor**: Contributed to multiple open-source projects ----------------------------
+- **Innovative AI Applications**: --------------------------------------
+- **Tech Speaker**: --------------
 
 ---
 
@@ -46,8 +46,8 @@ Feel free to connect with me if you're interested in discussing new technologies
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> 
+<h3 align="left">Languages and Tools</h3>
+<p align="left"> 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.erlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/erlang/erlang-original-wordmark.svg" alt="erlang" "width="40" height="40"/></a>
