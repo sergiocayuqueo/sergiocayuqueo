@@ -1,40 +1,45 @@
 # Sergio Ismael Cayuqueo Vera
 
 **Independent Researcher**  
-*AI Epistemology | Computational Complexity | Analytic Number Theory | Cognitive Neuropsychology*
+*AI Epistemology | Political Theology of Technology | Computational Complexity | Cognitive Neuropsychology*
 
 ---
 
 ### 🔬 Research Overview
 
-My work operates at the intersection of **theoretical computer science**, **epistemology**, and **cognitive neuropsychology**. I investigate the structural and architectural mechanics governing synthetic information generation, alongside foundational inquiries into computational complexity and mathematical logic.
+My work operates at the intersection of **theoretical computer science**, **epistemology**, and **systematic theology**. I investigate the structural mechanics governing synthetic information—from the computational hardness of SAT solvers to the semiotic capture of sacred language in generative systems.
 
 Key focus areas include:
-* **AI Epistemology & Architecture**: Deconstructing synthetic narrative generation, structural constraint satisfaction in Large Language Models, and replacing anthropomorphic tropes ("lying", "hallucination") with formal confabulation frameworks derived from split-brain interpreter theory.
+* **AI Epistemology & Political Theology**: Deconstructing synthetic narrative generation. Investigating the "Confabulation Framework" in LLMs and the "Mimetic Architecture" of religious deception through weaponized divine invocation.
 * **Theoretical Computer Science**: Empirical phase-transition threshold analysis, SAT solver mechanics, and computational hardness within the $P$ vs $NP$ paradigm.
-* **Analytic Number Theory**: Numerical verification, zero-distribution analysis, and spectral properties of the Riemann zeta function $\zeta(s)$.
+* **Analytic Number Theory**: Numerical verification and spectral properties of the Riemann zeta function $\zeta(s)$.
 
 ---
 
 ### 📜 Preprints & Manuscripts
 
+* **The Borrowed Name: Counterfeit Sanctity, Artificial Intelligence, and the Architecture of the Final Deception**  
+  *Status*: Deployment Phase / Peer Review  
+  *Repository*: [the-borrowed-name](https://github.com/sergiocayuqueo/the-borrowed-name)  
+  *Abstract*: Proposes that the eschatological "Final Deception" functions via a weaponized mimesis of sacred language. Identifies Generative AI as the first historical apparatus capable of producing "religiously fluent counterfeit sanctity" at a planetary scale, decoupling the sound of the divine from ontological presence.
+
 * **The Confabulation Engine: Why Artificial Intelligence Doesn't Lie — It Confabulates**  
   *Status*: Under peer review at *Ethics and Information Technology* (Springer Nature)  
   *Preprint*: [PsyArXiv (OSF)](https://osf.io/preprints/psyarxiv/cren9_v1)  
-  *Abstract*: Demonstrates that characterizing LLM non-factual outputs as "hallucinations" or "lies" constitutes a category mistake. Introduces the **Confabulation Framework**—grounded in Gazzaniga’s left-hemisphere interpreter theory—framing LLMs as structural engines for statistical narrative synthesis operating without an internal epistemic verification layer.
+  *Abstract*: Frames LLM outputs through Gazzaniga’s left-hemisphere interpreter theory, separating synthetic confabulation from human moral deception.
 
 ---
 
 ### 🔬 Research Repositories
 
+#### 🕊️ [`the-borrowed-name`](https://github.com/sergiocayuqueo/the-borrowed-name)
+A constructive theological and political critique of AI. Features the full manuscript, a structural table of technological-scriptural analogues, and a proposed "Pneumatological Epistemology" for the digital age.
+
 #### 🧠 [`the-confabulation-engine`](https://github.com/sergiocayuqueo/the-confabulation-engine)
-Theoretical framework, taxonomic distinctions, and architectural critique of generative AI outputs. Establishes formal criteria separating human moral deception from synthetic confabulation across agency, mechanism, and epistemic conditions.
+Theoretical framework and architectural critique of generative AI outputs. Establishes formal criteria separating agency, mechanism, and epistemic conditions in synthetic speech.
 
-#### 🧮 [`PvsNP`](https://github.com/sergiocayuqueo/PvsNP)
-A mathematical and computational investigation into the $P$ vs $NP$ problem. Features implementations of DPLL (Davis–Putnam–Logemann–Loveland) variants, phase-transition threshold estimations, and empirical analysis of $k$-SAT satisfiability hardness at critical density bounds.
-
-#### 📐 [`RiemannHypothesis`](https://github.com/sergiocayuqueo/RiemannHypothesis)
-Rigorous computational framework for studying the non-trivial zeros of the Riemann zeta function $\zeta(s)$. Focuses on numerical evaluation along the critical line $\text{Re}(s) = 1/2$, prime-counting connections $\pi(x)$, and explicit formulas.
+#### 🧮 [`PvsNP`](https://github.com/sergiocayuqueo/PvsNP) | 📐 [`RiemannHypothesis`](https://github.com/sergiocayuqueo/RiemannHypothesis)
+Computational investigations into fundamental mathematical hardness and the distribution of non-trivial zeros.
 
 ---
 
