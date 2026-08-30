@@ -20,7 +20,7 @@ Key focus areas include:
 
 * **The Borrowed Name: Counterfeit Sanctity, Artificial Intelligence, and the Architecture of the Final Deception**  
   *Status*: Deployment Phase / Peer Review  
-  *Repository*: [the-borrowed-name](https://github.com/sergiocayuqueo/the-borrowed-name)  
+  *Repository*: [SocArXive (OSF)](https://osf.io/preprints/socarxiv/82fcs_v1)  
   *Abstract*: Proposes that the eschatological "Final Deception" functions via a weaponized mimesis of sacred language. Identifies Generative AI as the first historical apparatus capable of producing "religiously fluent counterfeit sanctity" at a planetary scale, decoupling the sound of the divine from ontological presence.
 
 * **The Confabulation Engine: Why Artificial Intelligence Doesn't Lie — It Confabulates**  
