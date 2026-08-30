@@ -34,7 +34,7 @@ Theoretical framework, taxonomic distinctions, and architectural critique of gen
 A mathematical and computational investigation into the $P$ vs $NP$ problem. Features implementations of DPLL (Davis–Putnam–Logemann–Loveland) variants, phase-transition threshold estimations, and empirical analysis of $k$-SAT satisfiability hardness at critical density bounds.
 
 #### 📐 [`RiemannHypothesis`](https://github.com/sergiocayuqueo/RiemannHypothesis)
-Rigorous computational framework for studying the non-trivial zeros of the Riemann zeta function $\zeta(s)$. Focuses on numerical evaluation along the critical line $\operatorname{Re}(s) = \frac{1}{2}$, prime-counting connections ($\pi(x)$), and explicit formulas.
+Rigorous computational framework for studying the non-trivial zeros of the Riemann zeta function $\zeta(s)$. Focuses on numerical evaluation along the critical line $\text{Re}(s) = 1/2$, prime-counting connections $\pi(x)$, and explicit formulas.
 
 ---
 
@@ -44,4 +44,3 @@ Rigorous computational framework for studying the non-trivial zeros of the Riema
 * **ORCID**: [0009-0006-7867-8112](https://orcid.org/0009-0006-7867-8112)
 * **LinkedIn**: [sergiocayuqueovi](https://linkedin.com/in/sergiocayuqueovi)
 * **Contact**: `sergiocayuqueo4@gmail.com`
-
