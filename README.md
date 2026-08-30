@@ -25,7 +25,7 @@ Key focus areas include:
 
 * **The Confabulation Engine: Why Artificial Intelligence Doesn't Lie — It Confabulates**  
   *Status*: Under peer review at *Ethics and Information Technology* (Springer Nature)  
-  *Preprint*: [PsyArXiv (OSF)](https://osf.io/preprints/psyarxiv/cren9_v1)  
+  *Preprint*: [PsyArXiv (OSF)](https://osf.io/preprints/psyarxiv/jfrqx_v1)  
   *Abstract*: Frames LLM outputs through Gazzaniga’s left-hemisphere interpreter theory, separating synthetic confabulation from human moral deception.
 
 ---
