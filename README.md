@@ -20,12 +20,12 @@ Key focus areas include:
 
 * **The Borrowed Name: Counterfeit Sanctity, Artificial Intelligence, and the Architecture of the Final Deception**  
   *Status*: Deployment Phase / Peer Review  
-  *Repository*: [SocArXive (OSF)](https://osf.io/preprints/socarxiv/82fcs_v1)  
+  *Repository*: [SocArXive (OSF)](https://osf.io/preprints/socarxiv/a6fby_v1)  
   *Abstract*: Proposes that the eschatological "Final Deception" functions via a weaponized mimesis of sacred language. Identifies Generative AI as the first historical apparatus capable of producing "religiously fluent counterfeit sanctity" at a planetary scale, decoupling the sound of the divine from ontological presence.
 
 * **The Confabulation Engine: Why Artificial Intelligence Doesn't Lie — It Confabulates**  
   *Status*: Under peer review at *Ethics and Information Technology* (Springer Nature)  
-  *Preprint*: [PsyArXiv (OSF)](https://osf.io/preprints/psyarxiv/jfrqx_v1)  
+  *Preprint*: [PsyArXiv (OSF)](https://osf.io/preprints/psyarxiv/nmk8d_v1)  
   *Abstract*: Frames LLM outputs through Gazzaniga’s left-hemisphere interpreter theory, separating synthetic confabulation from human moral deception.
 
 ---
